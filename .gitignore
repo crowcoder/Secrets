@@ -18,3 +18,4 @@ obj/Debug/netcoreapp2.2/Secrets.AssemblyInfoInputs.cache
 obj/Debug/netcoreapp2.2/Secrets.RazorAssemblyInfo.cache
 obj/Debug/netcoreapp2.2/Secrets.csproj.FileListAbsolute.txt
 obj/Debug/netcoreapp2.2/project.razor.json
+.vscode/settings.json
