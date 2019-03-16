@@ -23,7 +23,7 @@ namespace Secrets.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "test push to azure" };
+            return new string[] { "value1", "value2", "test push to azure", "value3" };
         }
 
         // GET api/values/5
